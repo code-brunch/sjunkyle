@@ -3,6 +3,8 @@
 # [Github Pages Test 1](https://github.com/SjunKyle/sjunkyle/projects)
 
 ### Markdown Cheat Sheet
+
+![](https://github.com/SjunKyle/sjunkyle/blob/main/images/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-min.jpg)
 <!--
 **SjunKyle/sjunkyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
