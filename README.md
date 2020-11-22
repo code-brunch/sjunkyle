@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### Github Pages Test 1
+# [Github Pages Test 1](https://github.com/SjunKyle/sjunkyle/projects)
+
+### Markdown Cheat Sheet
 <!--
 **SjunKyle/sjunkyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
